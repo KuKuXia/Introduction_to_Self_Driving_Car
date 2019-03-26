@@ -9,7 +9,7 @@ This repository contains a series of tutorials for the self driving car. It is m
 git clone https://github.com/KuKuXia/Self-Driving-Car
 cd Self-Driving-Car
 ```
-2. Open a terminal then create a conda environment:
+2. Open a terminal, then create a conda environment:
 ```bash
 conda create --name Driver_Car python=3.6
 ```
@@ -30,18 +30,18 @@ jupyter lab
 http://localhost:8888
 ```
 
-6. Input your token shown in your terminal.
+6. Input your token shown in the terminal.
 7. Having fun.
 
 ## Contents
 
 1. Logistic Regression
 2. Perceptron
-3. Deep_Neural_Network
-4. Multi_Class_Classification
-5. MNIST
-6. CNN
-7. Traffic_Sign_Classification
-8. Polynomial_Regression
-9. Behavioural_Cloning
+3. Deep Neural Network
+4. Multi Class Classification
+5. MNIST Dataset
+6. Convolutional Neural Networks
+7. Traffic Sign Classification
+8. Polynomial Regression
+9. Behavioural Cloning
 
