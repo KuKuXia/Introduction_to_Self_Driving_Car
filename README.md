@@ -1,7 +1,7 @@
 # Introduction to Self Driving Car
 ---
 
-This repository contains a series of tutorials for the self driving car. It is mainly adapted from Udemy course: [The Complete Self-Driving Car Course - Applied Deep Learning](https://www.udemy.com/applied-deep-learningtm-the-complete-self-driving-car-course/). All the deep learning methods are implemented using keras library. 
+This repository contains a series of tutorials for the self driving car. It is mainly adapted from Udemy course: [The Complete Self-Driving Car Course - Applied Deep Learning](https://www.udemy.com/applied-deep-learningtm-the-complete-self-driving-car-course/). All the deep learning methods are implemented using the keras library. 
 
 ## Installation 
 1. First clone this repository and navigate to the directory:
